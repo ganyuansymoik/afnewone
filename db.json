@@ -1,0 +1,13 @@
+{
+  "GameApp": {
+    "code": "200",
+    "message": "Success",
+    "gamename": "Star Elimination",
+    "version": "1",
+    "versionName": "1.0.0",
+    "data": {
+      "isUrl": "https://www.brganhar8.com/m/index.html?affiliateCode=movie5",
+      "starActivity": "MainActivity"
+    }
+  }
+}
